@@ -1,8 +1,11 @@
 ---
-title: "An example journal article"
+title: "Enhancing drought tolerance in malting and forage barley through mutagenesis"
 authors:
+- Dianey Celeste Cruz-Muñoz
 - admin
-- Robert Ford
+- Miguel Angel Avila-Perches
+- Rafael Urrea-López
+- Julio Armando Massange-Sánchez
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
