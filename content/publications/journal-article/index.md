@@ -25,11 +25,9 @@ abstract: This study optimized ethyl methanesulfonate (EMS) mutagenesis in malti
 # Summary. An optional shortened abstract.
 summary: This study optimized ethyl methanesulfonate (EMS) mutagenesis in malting and forage barley to identify drought-tolerant mutants. The optimal treatment was 0.5% EMS for 2.6–2.7 hours, balancing survival and growth. Ten forage mutants survived drought stress, and three (For-7, For-8, For-10) showed reduced leaf water loss. These results provide valuable genetic resources for breeding drought-resilient barley varieties.
 
-
 links:
-  - type: source
+  - type: fulltext
     url: "https://doi.org/10.1007/s12892-025-00297-0"
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
