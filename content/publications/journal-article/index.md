@@ -34,7 +34,6 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-
   - type: source
     url: "https://doi.org/10.1007/s12892-025-00297-0"
 
