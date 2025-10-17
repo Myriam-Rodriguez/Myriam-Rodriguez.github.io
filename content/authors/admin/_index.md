@@ -57,23 +57,35 @@ interests:
 education:
   - area: PhD Plant biotechnology (Virology Focus)
     institution: Cinvestav-Irapuato
+    date_end: 2020-08-06
     summary: |
       Thesis on Geminivirus synergism and silencing suppression. Supervised by Prof. Rafael Rivera-Bustamante. 
 
   - area: MSc Biochemistry
-    institution: IBT UNAM
+    institution: IB-T UNAM
+    date_end: 2013-08-20
     summary: |
 
-
+work:
+  - position: Posdoctoral Researcher
+    company_name: CIATEJ
+    company_url: 'https://ciatej.mx/'
+    company_logo: ''
+    date_start: '2024-08-01'
+    date_end: '2025-08-30'
+    summary: |2-
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
       - name: qPCR
       - name: VIGS
       - name: Molecular cloning
-
+languages:
+  - name: Spanish
+  - name: English
 
 ---
 Myriam Rodríguez is a plant biotechnologist specializing in plant–virus interactions, molecular biology, and stress responses. Her research focuses on understanding the genetic and physiological mechanisms underlying drought tolerance and viral resistance in crops such as barley, maize, and chili pepper. She is particularly interested in developing molecular tools and viral vectors to study gene function and improve crop resilience.
