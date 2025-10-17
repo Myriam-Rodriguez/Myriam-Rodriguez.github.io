@@ -8,7 +8,8 @@ event_url: https://www.facebook.com/catando.ciencia/
 
 location: The beer 12.20
 
-summary: 
+summary: ''
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-09-02T19:00:00Z'
