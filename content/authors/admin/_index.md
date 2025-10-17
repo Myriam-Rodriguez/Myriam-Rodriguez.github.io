@@ -72,9 +72,7 @@ work:
     company_url: 'https://ciatej.mx/'
     company_logo: ''
     date_start: '2024-08-01'
-    date_end: '2025-08-30'
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    date_end: '2025-08-30
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
