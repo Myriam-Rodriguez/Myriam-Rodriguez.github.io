@@ -48,8 +48,6 @@ sections:
       filters:
         folders:
           - publications
-    design:
-      columns: '1'
   - block: collection
     id: talks
     content:
