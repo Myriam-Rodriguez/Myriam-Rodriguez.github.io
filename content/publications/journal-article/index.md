@@ -28,12 +28,5 @@ summary: This study optimized ethyl methanesulfonate (EMS) mutagenesis in maltin
 links:
   - type: doi
     url: "https://doi.org/10.1007/s12892-025-00297-0"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 ---
 
