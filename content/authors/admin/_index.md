@@ -86,6 +86,6 @@ languages:
     percent: 100
   - name: English
     percent: 70
-
 ---
+
 Myriam Rodríguez is a plant biotechnologist specializing in plant–virus interactions, molecular biology, and stress responses. Her research focuses on understanding the genetic and physiological mechanisms underlying drought tolerance and viral resistance in crops such as barley, maize, and chili pepper. She is particularly interested in developing molecular tools and viral vectors to study gene function and improve crop resilience.
