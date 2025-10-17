@@ -71,10 +71,8 @@ skills:
   - name: Technical Skills
     items:
       - name: qPCR
-        description: ''
       - name: VIGS
-        description: ''
-      - name: molecular cloning
+      - name: Molecular cloning
 
 
 ---
