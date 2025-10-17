@@ -1,6 +1,5 @@
 ---
-title: VIRUS ¿enemigos o aliados?
-De la coinfección entre geminivirus al uso de virus para estudiar la respuesta a la sequía en cereales
+title: VIRUS ¿enemigos o aliados? De la coinfección entre geminivirus al uso de virus para estudiar la respuesta a la sequía en cereales
 
 event: Catando ciencia
 event_url: https://www.facebook.com/catando.ciencia/
