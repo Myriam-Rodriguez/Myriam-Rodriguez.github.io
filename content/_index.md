@@ -34,10 +34,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m a plant biotechnologist studying plant–virus interactions and using viral vectors to explore gene function and stress resilience.
+
+       I’m a plant biotechnologist studying plant–virus interactions and using viral vectors to explore gene function and stress resilience.
      My research combines molecular biology and biotechnology to understand how viruses can be both pathogens and tools.
 
-Feel free to reach out for collaboration!
+    Feel free to reach out for collaboration!
     design:
       columns: '1'
   - block: collection
