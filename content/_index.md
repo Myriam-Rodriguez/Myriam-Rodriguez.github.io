@@ -34,11 +34,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a plant biotechnologist studying plant–virus interactions and using viral vectors to explore gene function and stress resilience.
+     My research combines molecular biology and biotechnology to understand how viruses can be both pathogens and tools.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+Feel free to reach out for collaboration!
     design:
       columns: '1'
   - block: collection
